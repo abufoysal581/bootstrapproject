@@ -1,0 +1,63 @@
+.row-header-top {
+        background-color: rgb(222, 239, 255);
+    }
+    .row-header-top .container .row .text-End {
+        color: aliceblue;
+    }
+    a.nav-link {
+        color: aliceblue;
+    }
+    li a {
+      color: rgb(0, 0, 0);
+    }
+    li a:hover {
+      background-color: rgb(25, 29, 29);
+    }
+    .container .Lsidebar {
+      padding-top: 40px ;
+      padding-left: 20px;
+      padding-right: 40px;
+      padding-bottom: 40px;
+    }
+    .container .Rsidebar {
+      padding: 40px;
+      padding-left: 50px;
+    }
+    .Rsidebar-left {
+      padding: 5px 50px;
+    }
+    section {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .Lsidebar-bottom .d-flex section:nth-child(2) {
+      box-sizing: border-box;
+      border-left: 1px solid #e1e6eb;
+      border-right: 1px solid #e1e6eb;
+    }
+    .Rsidebar-left section {
+      box-sizing: border-box;
+      border-left: 1px solid #e1e6eb;
+      border-right: 1px solid #e1e6eb;
+    }
+    .Rsidebar-right {
+      box-sizing: border-box;
+      border-left: 1px solid #e1e6eb;
+      border-right: 1px solid #e1e6eb;
+      padding: 40px 0;
+    }
+    .Card-Start {
+      padding-right: 15px;
+    }
+    .Card-End p {
+      font: 20px;
+    }
+    .popular-order {
+      font-size: 48px;
+      color: black;
+    }
+    section {
+      clear: both;
+      padding-bottom: 50px;
+      padding-top: 40px;
+    }
